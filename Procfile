@@ -1,1 +1,1 @@
-web:      vendor/foreman/foreman start --procfile=LocalProcfile --port=$PORT
+web: vendor/foreman/foreman start --procfile=LocalProcfile --port=$PORT
